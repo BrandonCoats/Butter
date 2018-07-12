@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@using ButterCMS.Models
+<h1 style="text-align:center">Example of Data retrieval for Butter CMS</h1>
+<br />
+@foreach (Post post in ViewData["allPosts"] as List<Post>)
+{
+    <h1>Post Title: <strong>@post.Title</strong></h1>
+    <h1>Post Summary:</h1>
+    <p>@post.Summary</p>
+    <h1>Post Body:</h1>
+    <p>@post.Body</p>
+    <h1>Publishing Data</h1>
+    <p>@post.Published.ToString()</p>
+    <h1>Creation Date Data</h1>
+    <p>Date, full:@post.Created.Date</p>
+    <p>Date, Day:@post.Created.Day</p>
+    <p>Date, day of week:@post.Created.DayOfWeek</p>
+    <p>Date, day of the year:@post.Created.DayOfYear</p>
+    <p>Date, year:@post.Created.Year</p>
+    <p>Further Data Avialable, but not shown.</p>
+    <h1>Author</h1>
+    <p>Author Name: @post.Author.FirstName, @post.Author.LastName</p>
+    <p>Author Title: @post.Author.Title</p>
+    <p> Author Email: @post.Author.Email</p>
+    <br />
+}
+/**/

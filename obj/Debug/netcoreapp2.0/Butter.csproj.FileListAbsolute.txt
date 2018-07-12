@@ -1,0 +1,11 @@
+D:\dev\Towers\Butter\Butter\Butter\obj\Debug\netcoreapp2.0\Butter.csprojAssemblyReference.cache
+D:\dev\Towers\Butter\Butter\Butter\obj\Debug\netcoreapp2.0\Butter.csproj.CoreCompileInputs.cache
+D:\dev\Towers\Butter\Butter\Butter\obj\Debug\netcoreapp2.0\Butter.AssemblyInfoInputs.cache
+D:\dev\Towers\Butter\Butter\Butter\obj\Debug\netcoreapp2.0\Butter.AssemblyInfo.cs
+D:\dev\Towers\Butter\Butter\Butter\bin\Debug\netcoreapp2.0\Butter.deps.json
+D:\dev\Towers\Butter\Butter\Butter\bin\Debug\netcoreapp2.0\Butter.runtimeconfig.json
+D:\dev\Towers\Butter\Butter\Butter\bin\Debug\netcoreapp2.0\Butter.runtimeconfig.dev.json
+D:\dev\Towers\Butter\Butter\Butter\bin\Debug\netcoreapp2.0\Butter.dll
+D:\dev\Towers\Butter\Butter\Butter\bin\Debug\netcoreapp2.0\Butter.pdb
+D:\dev\Towers\Butter\Butter\Butter\obj\Debug\netcoreapp2.0\Butter.dll
+D:\dev\Towers\Butter\Butter\Butter\obj\Debug\netcoreapp2.0\Butter.pdb
